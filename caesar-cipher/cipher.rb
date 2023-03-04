@@ -1,4 +1,4 @@
-# Caeser Cipher Code project
+# Caesar Cipher Code project
 
 def caesar_cipher(string, shift = 1)
   alphabet   = Array('a'..'z')
