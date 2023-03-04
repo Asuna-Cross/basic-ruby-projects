@@ -1,0 +1,1 @@
+# A code to see how many times an item was found in an array
